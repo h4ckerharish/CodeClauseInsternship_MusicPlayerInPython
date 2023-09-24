@@ -10,7 +10,7 @@ root = Tk()
 root.title("Music Player")
 root.geometry('920x670+290+85')
 root.configure(bg="#0f1a2b")
-
+root.resizable(False)
 
 mixer.init()
 
