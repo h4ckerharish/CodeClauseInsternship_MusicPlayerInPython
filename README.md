@@ -5,7 +5,7 @@ Python Development Intern in CodeClause
 
 A simple and interactive music player built using Python and Tkinter. This music player allows you to play and manage your music collection, featuring play, pause, stop, next, previous, shuffle, repeat, and open folder functionalities.
 
-[image](https://github.com/h4ckerharish/CodeClauseInsternship_MusicPlayerInPython/assets/66734043/b3e82cc3-60a7-4a58-beb4-9f8770187551)
+![screenshot]![image](https://github.com/h4ckerharish/CodeClauseInsternship_MusicPlayerInPython/assets/66734043/b3e82cc3-60a7-4a58-beb4-9f8770187551)
 
 
 ## Features
