@@ -28,7 +28,7 @@ A simple and interactive music player built using Python and Tkinter. This music
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/h4ckerharish/CodeClauseInternship_MusicPlayerInPython.git
 2. Open the Folder
 
    ```bash
