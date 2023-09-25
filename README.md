@@ -65,7 +65,7 @@ You are now ready to enjoy your music collection with the interactive Python mus
 ## Contact
 
 G-Mail : harishprp370@gmail.com
-Linkedin : http://www.linkedin.com/h4ckerharish36
+Linkedin : [http://www.linkedin.com/h4ckerharish36](https://www.linkedin.com/in/h4ckerharish36)
 
 ## Credits
 This project was created by HARISH N. Feel free to contribute or report issues if you encounter any problems.
